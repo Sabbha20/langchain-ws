@@ -1,0 +1,6 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+langchain_ollama
