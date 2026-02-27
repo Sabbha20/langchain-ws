@@ -17,6 +17,7 @@ dependencies = [
     "langchain-ollama>=1.0.0",
     "pypdf>=6.4.0",
     "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
     "sentence-transformers>=5.1.2",
     "streamlit>=1.52.1",
 ]

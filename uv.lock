@@ -1704,6 +1704,7 @@ dependencies = [
     { name = "langchain-ollama" },
     { name = "pypdf" },
     { name = "python-dotenv" },
+    { name = "scikit-learn" },
     { name = "sentence-transformers" },
     { name = "streamlit" },
 ]
@@ -1722,6 +1723,7 @@ requires-dist = [
     { name = "langchain-ollama", specifier = ">=1.0.0" },
     { name = "pypdf", specifier = ">=6.4.0" },
     { name = "python-dotenv", specifier = ">=1.2.1" },
+    { name = "scikit-learn", specifier = ">=1.8.0" },
     { name = "sentence-transformers", specifier = ">=5.1.2" },
     { name = "streamlit", specifier = ">=1.52.1" },
 ]

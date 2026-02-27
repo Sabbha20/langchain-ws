@@ -11,3 +11,4 @@ streamlit
 langchain-google-genai
 google
 google-generativeai
+scikit-learn
