@@ -21,3 +21,8 @@ dependencies = [
     "sentence-transformers>=5.1.2",
     "streamlit>=1.52.1",
 ]
+
+[tool.uv.workspace]
+members = [
+    "16-hf-apps/proj1_similar_word_finder_app",
+]
