@@ -1,5 +1,5 @@
 langchain
-ipykernel
+jupyter
 python-dotenv
 langchain-community
 pypdf
@@ -8,3 +8,6 @@ sentence_transformers
 langchain_huggingface
 faiss-cpu
 streamlit
+langchain_google_genai
+google
+google-generativeai
